@@ -1,13 +1,13 @@
 
 /* ----------- Tablets larger than 768px wide ----------- */
-@media only screen and (min-width: 768px) {
+@media (min-width: 768px) {
 	body {
     background: #d7dedc;
   }
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
-@media only screen and  (min-width: 1200px) {
+@media (min-width: 1200px) {
  body {
 	 background: #9a879d;
  }
